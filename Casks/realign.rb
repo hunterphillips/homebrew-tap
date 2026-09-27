@@ -1,6 +1,6 @@
 cask "realign" do
-  version "1.0"
-  sha256 "bb23905422e15242df5193acb15f99ad4dbc728588ce9a83a1b7911e36215e39"
+  version "1.0.1"
+  sha256 "e94e41cab0f1d39a18dcaf48af1ec1891b7238ac1f82f6b810a6e0bc444cb795"
 
   url "https://github.com/hunterphillips/realign/releases/download/v#{version}/Realign-#{version}.zip"
   name "Realign"
