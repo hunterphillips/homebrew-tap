@@ -5,7 +5,7 @@ cask "realign" do
   url "https://github.com/hunterphillips/realign/releases/download/v#{version}/Realign-#{version}.zip"
   name "Realign"
   desc "Save and restore window layouts per display setup"
-  homepage "https://github.com/hunterphillips/realign"
+  homepage "https://hunterphillips.dev/apps/realign"
 
   livecheck do
     url :url
